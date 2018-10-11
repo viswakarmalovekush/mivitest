@@ -23,7 +23,6 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="msn id"
-                android:text="0468874507"
                 android:textSize="@dimen/button_textsize"/>
         </android.support.design.widget.TextInputLayout>
 
